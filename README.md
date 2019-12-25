@@ -128,7 +128,7 @@ In one operation, characters ‘a’ and ‘b’ can be removed since both have 
 Second operation can remove character ‘c’ having frequency 3.
 Total 2 operations are required.
 
-**Input:** str = “kochartechisawesome”
+**Input:** str = “weareawesome”
 **Output:** 3
 
 
